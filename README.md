@@ -1,4 +1,4 @@
-# Data-Cleaning-
+# Data-Cleaning
 # 🧹 Data Cleaning with Python
 
 Welcome to my **Data Cleaning** repository! This project demonstrates various data cleaning techniques using **Python** and **Pandas**. Data cleaning is one of the most important steps in data analysis because clean data leads to accurate insights and better decision-making.
