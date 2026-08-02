@@ -123,9 +123,15 @@ After completing this project, I learned:
 Hi, I'm **karuna gulave**, an aspiring **Data Analyst** passionate about Python, SQL, Excel, Power BI, and Data Visualization.
 I enjoy solving real-world data problems and continuously improving my analytical skills by working on hands-on projects.
 
-Mobile no.9226458246
-Email:gulavekaruna83@gmail.com
-Github id:https://github.com/karunagulave
+📞 **Mobile no:** 9226458246  
+
+📧 **Email:** gulavekaruna83@gmail.com
+
+👨‍💻 **Github id:** https://github.com/karunagulave
+
+💼 **LinkedIn:** https://www.linkedin.com/in/karuna-gulave-0a8149425/
+
+---
 
 ### 📚 Currently Learning
 
